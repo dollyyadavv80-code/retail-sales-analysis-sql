@@ -8,7 +8,7 @@ This project analyzes retail transaction data to answer key business questions a
 
 ## 🗂️ Dataset
 
-- **File:** `retail_sales_analysis.csv`
+- **File:** `retail_sales_analysis_csv`
 - **Rows:** 2000 transactions
 - **Columns:**
 
