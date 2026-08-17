@@ -44,7 +44,7 @@ This project analyzes retail transaction data to answer key business questions a
 
 ## 📁 Files
 
-- `retail_sales_analysis_csv` — dataset used for analysis
+- `retail_sales_analysis.csv` — dataset used for analysis
 - `retail_sales_queries.sql` — table creation and all analysis queries
 
 ## 🚀 How to Use
