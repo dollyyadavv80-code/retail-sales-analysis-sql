@@ -8,7 +8,7 @@ This project analyzes retail transaction data to answer key business questions a
 
 ## 🗂️ Dataset
 
-- **File:** `retail_sales.csv`
+- **File:** `retail_sales_analysis.csv`
 - **Rows:** 2000 transactions
 - **Columns:**
 
@@ -44,13 +44,13 @@ This project analyzes retail transaction data to answer key business questions a
 
 ## 📁 Files
 
-- `retail_sales.csv` — dataset used for analysis
+- `retail_sales_analysis_csv` — dataset used for analysis
 - `retail_sales_queries.sql` — table creation and all analysis queries
 
 ## 🚀 How to Use
 
 1. Create a database in MySQL (e.g. `mydb`)
-2. Import `retail_sales.csv` into a table named `retail_sales`
+2. Import `retail_sales_analysis.csv` into a table named `retail_sales`
 3. Run `retail_sales_queries.sql` to reproduce the analysis
 
 ## 📈 Key Insights
